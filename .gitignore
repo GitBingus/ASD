@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
 *.DS_Store
+=======
+>>>>>>> 345b028bfd1dab6b138d2273cb9f012d20c39292
 
 # C extensions
 *.so
@@ -219,3 +222,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
