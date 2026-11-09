@@ -1,8 +1,8 @@
 # ASD @ UWE
 
 ## ROLES
-George: Lead of Software
-Romiz:  Lead of Databases
-Nathan: Lead of Testing
-Lewis:  Lead of Demonstration
-Joshua: Lead of Design
+1. George: Lead of Software
+2. Romiz:  Lead of Databases
+3. Nathan: Lead of Testing
+4. Lewis:  Lead of Demonstration
+5. Joshua: Lead of Design
